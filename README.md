@@ -25,7 +25,7 @@ const francis = {
             hybrid: ["Ionic", 'Flutter'],
             native: ["Java"]
         },
-        devOps: ["AWS", "Docker", "Kubernetes"],
+        devOps: ["Linux", "AWS", "Docker", "Kubernetes", "Github Actions"],
         databases: ["mongo", "MySql", "dynamoDB"],
         misc: ["Firebase", "ReactJS", "Angular"]
     },
