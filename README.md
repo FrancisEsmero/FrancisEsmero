@@ -8,11 +8,11 @@
 > #### My name is Francis Esmero and I'm a __software developer/uiux/cloud & devops enthusiast__. i'm planning to learn everything 😭  
 
 #### Connect with me
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/francis-esmero#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/francis-esmero#gh-dark-mode-only)
+[![website](./image/linkedin-light.svg)](https://www.linkedin.com/in/francis-esmero#gh-light-mode-only)
+[![website](./image/linkedin-dark.svg)](https://www.linkedin.com/in/francis-esmero#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/francisesmero#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/francisesmero#gh-dark-mode-only)
+[![website](./image/instagram-light.svg)](https://www.instagram.com/francisesmero#gh-light-mode-only)
+[![website](./image/instagram-dark.svg)](https://www.instagram.com/francisesmero#gh-dark-mode-only)
 
 #### About me
 ```typescript
