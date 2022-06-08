@@ -21,7 +21,7 @@ const francis = {
         databases: ["mongo", "MySql", "dynamoDB"],
         misc: ["Firebase", "ReactJS", "Angular"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microservices Architecture"],
+    architecture: ["Serverless Architecture", "PWAs", "SPAs", "Microservices Architecture"],
     goals: "Man, i really need to do some contributions here",
     triva: "Knowing the problem is already half of the solution"
 };
