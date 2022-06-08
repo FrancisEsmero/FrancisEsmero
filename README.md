@@ -1,6 +1,6 @@
 <html>
       <head>
-        <img src="readme_header.png" alt="my profile banner">
+        <img src="image/readme_header.png" alt="my profile banner">
       </head>
 </html>
 
